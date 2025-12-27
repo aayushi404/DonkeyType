@@ -11,7 +11,7 @@ function App() {
   const handledData = chars.map((char, i) => {return {char:char, color:"black", id:i}})
    
   return (
-    <div className=''>
+    <div className='absolute h-screen w-screen bg-royal-400'>
       <Header />
       {startTest ? <Test data={handledData}/> :  <Main startTest={() => setStartTest(true)}/>
 }

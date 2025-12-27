@@ -5,4 +5,15 @@
 @theme {
     --font-quicksand: "Quicksand", sans-serif;
     --font-jetbrains_mono: "JetBrains Mono", monospace;
+    --color-royal-400: #1B1A17;
+    --color-royal-300: #F0A500;
+    --color-royal-200: #E45826;
+    --color-royal-100: #E6D5B8;
+    --color-neon_green:#08CB00;
+    --color-neon_darkgreen:#253900;
+    --color-neon_gray:#EEEEEE;
+    --color-navy-400:#404258;
+    --color-navy-300:#474E68;
+    --color-navy-200:#50577A;
+    --color-navy-100:#6B728E;
 }
